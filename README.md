@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aly Qamar</h1>
 <h3 align="center">Passionate about software Engineering</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
+<img align="right" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="400">
 
 - 🌱 I’m currently learning **Java SE Development**
 
