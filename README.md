@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alyqamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/alyqamar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alyqamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alyqamar" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/alyqamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alyqamar" height="30" width="40" /></a> -->
   <!-- <a href="https://atcoder.jp/users/aly_Qamar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87208298/189781988-9328deb0-be8f-4db6-b5af-d2b9caaa4642.png" alt="alyqamar" height="30" width="40" /></a> -->
   <!-- <a href="https://www.hackerrank.com/alyQamar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87208298/189782365-b7730054-6c4f-4cfe-8a8d-8d602816a481.png" alt="alyqamar" height="30" width="40" /></a> -->
   <a href="https://www.leetcode.com/alyqamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aly qamar" height="30" width="40" /></a>
