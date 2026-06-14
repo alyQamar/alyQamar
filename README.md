@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://levelup.gitconnected.com/demystifying-software-development-principles-dry-kiss-yagni-solid-grasp-and-lod-8606113c0313">
-    <img src="./assets/img/bg.svg" alt="Header Banner" width="100%" />
-  </a>
-</p>
-
 # Hi, I'm Aly Qamar 👋
 
 <p align="left">
@@ -16,6 +10,11 @@
 
 Backend-focused **Software Engineer** specializing in Java Spring Boot. Passionate about building scalable systems, refactoring legacy code, and query optimization.
 
+<p align="center">
+  <a href="https://levelup.gitconnected.com/demystifying-software-development-principles-dry-kiss-yagni-solid-grasp-and-lod-8606113c0313">
+    <img src="./assets/img/bg.svg" alt="Header Banner" width="100%" />
+  </a>
+</p>
 
 ### GitHub Stats
 
