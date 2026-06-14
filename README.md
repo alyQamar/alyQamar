@@ -10,7 +10,6 @@
 
 Backend-focused **Software Engineer** specializing in Java Spring Boot. Passionate about building scalable systems, refactoring legacy code, and query optimization.
 
----
 
 ### GitHub Stats
 
