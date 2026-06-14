@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://levelup.gitconnected.com/demystifying-software-development-principles-dry-kiss-yagni-solid-grasp-and-lod-8606113c0313">
+    <img src="./assets/img/bg.svg" alt="Header Banner" width="100%" />
+  </a>
+</p>
+
 # Hi, I'm Aly Qamar 👋
 
 <p align="left">
@@ -14,6 +20,15 @@ Backend-focused **Software Engineer** specializing in Java Spring Boot. Passiona
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyqamar&theme=tokyonight&show_icons=true&locale=en&hide_border=true" alt="Aly's GitHub Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alyqamar&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Aly's Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alyqamar&theme=tokyonight&show_icons=true&locale=en&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alyqamar&theme=default&show_icons=true&locale=en&hide_border=true" />
+    <img alt="Aly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alyqamar&theme=default&show_icons=true&locale=en&hide_border=true" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alyqamar&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=alyqamar&theme=default&show_icons=true&locale=en&layout=compact&hide_border=true" />
+    <img alt="Aly's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyqamar&theme=default&show_icons=true&locale=en&layout=compact&hide_border=true" />
+  </picture>
 </p>
